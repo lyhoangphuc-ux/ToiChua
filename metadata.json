@@ -1,0 +1,8 @@
+{
+  "name": "Tới Trưa - Đặt Cơm Trưa Thông Minh",
+  "description": "Tới Trưa - Trưa tới, ăn chưa? Ứng dụng đặt trước cơm trưa văn phòng thông minh, giao nóng hổi đúng giờ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
